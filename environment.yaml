@@ -1,0 +1,19 @@
+name: WIN25_uncovering_paper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - xarray
+  - netcdf4
+  - cartopy
+  - astropy
+  - pillow
+  - windrose
