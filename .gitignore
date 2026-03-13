@@ -1,0 +1,20 @@
+# macOS junk
+.DS_Store
+._*
+
+# ignore file contents by default
+*
+
+# allow directories
+!*/
+
+# allow these files anywhere
+!README.md
+!environment.yaml
+!*.ipynb
+
+# but keep AppleDouble notebook files ignored
+._*.ipynb
+
+# keep this file itself
+!.gitignore
