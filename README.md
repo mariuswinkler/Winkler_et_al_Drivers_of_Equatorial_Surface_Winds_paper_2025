@@ -4,7 +4,7 @@ This repository contains the scripts required to reproduce the figures from:
 
 **Winkler et al.**
 *Uncovering the Drivers of the Equatorial Ocean Surface Winds.*
-(doi: [DOI: 10.1002/qj.4998](https://doi.org/10.1002/qj.4998))
+(doi: [10.1002/qj.4998](https://doi.org/10.1002/qj.4998))
 
 ## Repository contents
 
